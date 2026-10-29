@@ -1,0 +1,7074 @@
+[
+  {
+    "rollNo": "23210140129",
+    "regNo": "6057-MC-2023",
+    "name": "SANJANA SONI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "27,0;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "55,40;56"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "33,54;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "50,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,42"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "50,50"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "23210140179",
+    "regNo": "6059-MC-2023",
+    "name": "ZARINA BANOO",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "18,34;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,32;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "32,51;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "50,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "60,40"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,40"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140001",
+    "regNo": "6950-MC-2025",
+    "name": "AABROO ARIF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,61;74"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "69,62;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "78,66;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "76,71"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "76,71"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "67,74"
+      }
+    ],
+    "result": "PASS/622",
+    "total": 622,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140002",
+    "regNo": "6951-MC-2025",
+    "name": "AADIL ANWAR SHAH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "28,55;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "43,58;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "29,46;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,44"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,54"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,46"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140003",
+    "regNo": "6952-MC-2025",
+    "name": "AAQIF JALAL LALI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,60;65"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,61;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,60;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,70"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "57,57"
+      }
+    ],
+    "result": "PASS/553",
+    "total": 553,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140004",
+    "regNo": "6953-MC-2025",
+    "name": "AATIF KHURSHEED",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "53,55;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "49,64;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "51,64;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,55"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,52"
+      }
+    ],
+    "result": "PASS/541",
+    "total": 541,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140005",
+    "regNo": "6954-MC-2025",
+    "name": "AAYAT UL ASHAQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "56,65;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "73,69;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,73;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,72"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "77,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "70,72"
+      }
+    ],
+    "result": "PASS/605",
+    "total": 605,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140006",
+    "regNo": "7167-MC-2025",
+    "name": "ABHISHEK DABAS",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "39,50;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "40,60;60"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "51,55;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "55,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,40"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140007",
+    "regNo": "6955-MC-2025",
+    "name": "ADNAN NAZIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "42,52;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "49,57;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,72;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "70,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "57,60"
+      }
+    ],
+    "result": "PASS/522",
+    "total": 522,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140008",
+    "regNo": "6956-MC-2025",
+    "name": "AFREENA JAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "46,58;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "72,47;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "43,60;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "50,50"
+      }
+    ],
+    "result": "PASS/508",
+    "total": 508,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140009",
+    "regNo": "6957-MC-2025",
+    "name": "AHMAD SADAAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,64;75"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "84,62;79"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "68,66;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "80,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "70,66"
+      }
+    ],
+    "result": "PASS/613",
+    "total": 613,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140010",
+    "regNo": "6958-MC-2025",
+    "name": "AIMAN FAROOQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,64;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "55,58;76"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,64;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,70"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "74,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "69,69"
+      }
+    ],
+    "result": "PASS/560",
+    "total": 560,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140011",
+    "regNo": "6959-MC-2025",
+    "name": "AIRAH SHABIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,64;69"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,62;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,61;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,67"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "75,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "71,68"
+      }
+    ],
+    "result": "PASS/578",
+    "total": 578,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140012",
+    "regNo": "6960-MC-2025",
+    "name": "AISHA ALI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "65,75;70"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,65;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "68,73;75"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "83,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,72"
+      }
+    ],
+    "result": "PASS/629",
+    "total": 629,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140013",
+    "regNo": "6961-MC-2025",
+    "name": "AKSA SYED",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,56;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,70;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "54,68;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "67,66"
+      }
+    ],
+    "result": "PASS/553",
+    "total": 553,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140014",
+    "regNo": "6962-MC-2025",
+    "name": "ALEEM SAJAD",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,64;77"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,71;75"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,64;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,72"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "73,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "70,66"
+      }
+    ],
+    "result": "PASS/596",
+    "total": 596,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140015",
+    "regNo": "6963-MC-2025",
+    "name": "AMAAN ULLAH LONE",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,67;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,62;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "84,68;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "50,53"
+      }
+    ],
+    "result": "PASS/598",
+    "total": 598,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140016",
+    "regNo": "7150-MC-2025",
+    "name": "AMINA BANOO",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "53,62;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,59;76"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,68;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,62"
+      }
+    ],
+    "result": "PASS/569",
+    "total": 569,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140017",
+    "regNo": "6964-MC-2025",
+    "name": "ANMOL KUNDAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,60;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "69,63;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,74;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "51,50"
+      }
+    ],
+    "result": "PASS/570",
+    "total": 570,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140018",
+    "regNo": "7151-MC-2025",
+    "name": "ANSH KUNDAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "58,51;57"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,56;61"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "68,54;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,59"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "53,50"
+      }
+    ],
+    "result": "PASS/532",
+    "total": 532,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140019",
+    "regNo": "6965-MC-2025",
+    "name": "ANSHIKA KUMARI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "51,63;70"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,62;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "72,60;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,63"
+      }
+    ],
+    "result": "PASS/578",
+    "total": 578,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140020",
+    "regNo": "6966-MC-2025",
+    "name": "AQIB SHAFQAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,51;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "49,67;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "52,54;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,63"
+      }
+    ],
+    "result": "PASS/514",
+    "total": 514,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140021",
+    "regNo": "6967-MC-2025",
+    "name": "AQSA AYESHA MALIK",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "49,69;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,61;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "69,60;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,68"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,59"
+      }
+    ],
+    "result": "PASS/557",
+    "total": 557,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140022",
+    "regNo": "6968-MC-2025",
+    "name": "ARIZO IMTIYAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "63,68;71"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,72;78"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "69,67;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,68"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,70"
+      }
+    ],
+    "result": "PASS/621",
+    "total": 621,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140023",
+    "regNo": "6969-MC-2025",
+    "name": "AROOSHA LAWLAAK",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "45,60;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,61;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,65;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "71,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "73,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,66"
+      }
+    ],
+    "result": "PASS/562",
+    "total": 562,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140024",
+    "regNo": "7156-MC-2025",
+    "name": "ASIF ASHRAF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "41,53;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,61;65"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,55;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,68"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "58,50"
+      }
+    ],
+    "result": "PASS/517",
+    "total": 517,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140025",
+    "regNo": "6970-MC-2025",
+    "name": "ASRAR AHMAD",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,61;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "54,65;82"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "68,68;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,56"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "67,59"
+      }
+    ],
+    "result": "PASS/594",
+    "total": 594,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140026",
+    "regNo": "6971-MC-2025",
+    "name": "AUSMAT MAQBOOL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "58,64;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,65;56"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,46;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,67"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "65,51"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,48"
+      }
+    ],
+    "result": "PASS/527",
+    "total": 527,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140027",
+    "regNo": "6972-MC-2025",
+    "name": "AUTIFA JAAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "59,66;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "68,70;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "72,80;73"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "73,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "71,67"
+      }
+    ],
+    "result": "PASS/626",
+    "total": 626,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140028",
+    "regNo": "6973-MC-2025",
+    "name": "AYAAN MUGHAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,55;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "66,59;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,53;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "71,59"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "67,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,59"
+      }
+    ],
+    "result": "PASS/537",
+    "total": 537,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140029",
+    "regNo": "6974-MC-2025",
+    "name": "AZAN UL ZUHA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,63;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,59;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,57;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,67"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "72,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,59"
+      }
+    ],
+    "result": "PASS/541",
+    "total": 541,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140030",
+    "regNo": "6975-MC-2025",
+    "name": "AZHAR ASHIQ LONE",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "52,54;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "46,58;50"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "44,47;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "54,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "60,51"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "54,51"
+      }
+    ],
+    "result": "PASS/466",
+    "total": 466,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140031",
+    "regNo": "6976-MC-2025",
+    "name": "AZIA KAUSAR KHAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "53,56;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,60;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,69;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,67"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "70,56"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,56"
+      }
+    ],
+    "result": "PASS/558",
+    "total": 558,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140032",
+    "regNo": "6977-MC-2025",
+    "name": "BEENISH REYAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "57,67;72"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "68,65;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,81;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "73,73"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "72,70"
+      }
+    ],
+    "result": "PASS/616",
+    "total": 616,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140033",
+    "regNo": "6978-MC-2025",
+    "name": "BHAT SEHRAN FAROOQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "53,65;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,56;57"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "71,64;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,56"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,53"
+      }
+    ],
+    "result": "PASS/536",
+    "total": 536,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140034",
+    "regNo": "6979-MC-2025",
+    "name": "BISMA MUSHTAQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,57;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,69;66"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,59;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "67,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "67,62"
+      }
+    ],
+    "result": "PASS/543",
+    "total": 543,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140035",
+    "regNo": "6980-MC-2025",
+    "name": "BUROOJ NAQASH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,62;51"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,57;56"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "45,74;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "67,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,59"
+      }
+    ],
+    "result": "PASS/517",
+    "total": 517,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140036",
+    "regNo": "6981-MC-2025",
+    "name": "BUSHIRA BASHIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "54,57;57"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,68;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,80;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "77,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "67,61"
+      }
+    ],
+    "result": "PASS/562",
+    "total": 562,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140037",
+    "regNo": "7168-MC-2025",
+    "name": "CHAUDHARY MANISH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "41,50;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,54;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,47;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,50"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140038",
+    "regNo": "6982-MC-2025",
+    "name": "CIYANAT TOUSEEF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,54;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "47,66;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,47;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,52"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,51"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,56"
+      }
+    ],
+    "result": "PASS/503",
+    "total": 503,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140039",
+    "regNo": "7159-MC-2025",
+    "name": "DINESH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "45,52;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "49,63;61"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "53,43;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "54,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "55,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,46"
+      }
+    ],
+    "result": "PASS/479",
+    "total": 479,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140040",
+    "regNo": "6983-MC-2025",
+    "name": "DIVYAM SHARMA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "67,53;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "46,61;61"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "55,43;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "66,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,54"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,49"
+      }
+    ],
+    "result": "PASS/503",
+    "total": 503,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140041",
+    "regNo": "6984-MC-2025",
+    "name": "EMAD SHAFI GANAIE",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "51,46;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "54,47;62"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "48,69;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "55,54"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,51"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,40"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140042",
+    "regNo": "6985-MC-2025",
+    "name": "ESHVA SHAFI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,71;65"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,64;60"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "71,85;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "73,71"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "79,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,69"
+      }
+    ],
+    "result": "PASS/594",
+    "total": 594,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140043",
+    "regNo": "6986-MC-2025",
+    "name": "FAISAL RASHEED",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "52,45;51"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,50;62"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "53,50;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,41"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "60,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,40"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140044",
+    "regNo": "6987-MC-2025",
+    "name": "FAIZ UL YASEEN GANAIE",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "41,49;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "40,66;65"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "50,50;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,55"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "67,54"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "59,53"
+      }
+    ],
+    "result": "See original record",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026",
+    "internal": "PASS/348",
+    "external": "R MBBS19101"
+  },
+  {
+    "rollNo": "25210140045",
+    "regNo": "6988-MC-2025",
+    "name": "FAIZAN HASSAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,37;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "36,44;53"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,40;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "50,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,45"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140046",
+    "regNo": "6989-MC-2025",
+    "name": "FAIZAN JAVAID BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "43,60;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,64;55"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "82,68;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,62"
+      }
+    ],
+    "result": "PASS/550",
+    "total": 550,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140047",
+    "regNo": "6990-MC-2025",
+    "name": "FAIZAN SHIRAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "52,50;51"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "47,43;65"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "50,38;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "52,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "54,54"
+      }
+    ],
+    "result": "PASS/458",
+    "total": 458,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140048",
+    "regNo": "6991-MC-2025",
+    "name": "FALAK RAMZAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,60;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "72,69;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "74,68;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "75,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "67,65"
+      }
+    ],
+    "result": "PASS/581",
+    "total": 581,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140049",
+    "regNo": "6992-MC-2025",
+    "name": "FARHAAN ALTAF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "78,62;64"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,65;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,68;77"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "78,75"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "78,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,71"
+      }
+    ],
+    "result": "PASS/610",
+    "total": 610,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140050",
+    "regNo": "6993-MC-2025",
+    "name": "FARHAN NIYAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,68;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,59;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "72,60;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,53"
+      }
+    ],
+    "result": "PASS/557",
+    "total": 557,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140051",
+    "regNo": "6994-MC-2025",
+    "name": "FARHAN SAMBYAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "66,62;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "67,62;79"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,62;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "69,63"
+      }
+    ],
+    "result": "PASS/591",
+    "total": 591,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140052",
+    "regNo": "7152-MC-2025",
+    "name": "FATIMA SUGRA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "68,59;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,66;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,69;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,61"
+      }
+    ],
+    "result": "PASS/580",
+    "total": 580,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140053",
+    "regNo": "6995-MC-2025",
+    "name": "FAWAZ BANDAY",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,63;70"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,68;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "75,69;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "76,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "72,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,62"
+      }
+    ],
+    "result": "PASS/610",
+    "total": 610,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140054",
+    "regNo": "6996-MC-2025",
+    "name": "FAZEELAT ANZAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,66;73"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,61;75"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "71,65;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,72"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "82,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,64"
+      }
+    ],
+    "result": "PASS/593",
+    "total": 593,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140055",
+    "regNo": "6997-MC-2025",
+    "name": "FAZILA SHAFI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,65;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,63;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "81,63;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "65,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "69,62"
+      }
+    ],
+    "result": "PASS/598",
+    "total": 598,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140056",
+    "regNo": "6998-MC-2025",
+    "name": "FURKAAN SHABIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,59;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "44,58;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "42,50;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,55"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "53,53"
+      }
+    ],
+    "result": "PASS/476",
+    "total": 476,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140057",
+    "regNo": "6999-MC-2025",
+    "name": "FURKAN FAROOQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "64,58;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,60;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,58;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "72,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,59"
+      }
+    ],
+    "result": "PASS/551",
+    "total": 551,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140058",
+    "regNo": "7000-MC-2025",
+    "name": "FURQAAN GULZAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,64;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "52,57;76"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "49,57;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "72,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "74,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "56,52"
+      }
+    ],
+    "result": "PASS/541",
+    "total": 541,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140059",
+    "regNo": "7001-MC-2025",
+    "name": "GOURAV BADGAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,46;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "72,54;82"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,41;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,48"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,51"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,44"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140060",
+    "regNo": "7002-MC-2025",
+    "name": "HADIYA NISAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "59,66;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "66,62;80"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "95,66;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "76,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,71"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "70,66"
+      }
+    ],
+    "result": "PASS/633",
+    "total": 633,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140061",
+    "regNo": "7003-MC-2025",
+    "name": "HAKEEM SAAD SHOWKAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "56,76;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "75,63;80"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,72;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,67"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "72,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,60"
+      }
+    ],
+    "result": "PASS/610",
+    "total": 610,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140062",
+    "regNo": "7004-MC-2025",
+    "name": "HAMMAD ABRAR WANI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "49,56;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,61;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,52;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "74,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "70,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "57,62"
+      }
+    ],
+    "result": "PASS/546",
+    "total": 546,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140063",
+    "regNo": "7005-MC-2025",
+    "name": "HAYAAN SHAFI MIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "54,58;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,61;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,63;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "66,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "67,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,56"
+      }
+    ],
+    "result": "PASS/549",
+    "total": 549,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140064",
+    "regNo": "7006-MC-2025",
+    "name": "HAZIM BASHIR PALA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "59,48;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "42,54;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "48,57;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "59,50"
+      }
+    ],
+    "result": "PASS/500",
+    "total": 500,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140065",
+    "regNo": "7007-MC-2025",
+    "name": "HAZIM JAVID KIRMANI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "59,63;72"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,65;81"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,81;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "80,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "76,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,73"
+      }
+    ],
+    "result": "PASS/618",
+    "total": 618,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140066",
+    "regNo": "7008-MC-2025",
+    "name": "HEENA CHOUDHARY",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "64,64;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,47;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,55;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,58"
+      }
+    ],
+    "result": "PASS/545",
+    "total": 545,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140067",
+    "regNo": "7009-MC-2025",
+    "name": "IKRAM AKBAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "56,72;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "55,68;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "54,50;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "66,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,56"
+      }
+    ],
+    "result": "PASS/544",
+    "total": 544,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140068",
+    "regNo": "7010-MC-2025",
+    "name": "ILHAM HASSAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "54,56;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,68;62"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "45,56;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,53"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "58,51"
+      }
+    ],
+    "result": "PASS/511",
+    "total": 511,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140069",
+    "regNo": "7011-MC-2025",
+    "name": "IMAAD MANZOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "63,59;57"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "73,56;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,60;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,65"
+      }
+    ],
+    "result": "PASS/570",
+    "total": 570,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140070",
+    "regNo": "7012-MC-2025",
+    "name": "IMRA EAMANI MANZOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,62;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "71,72;84"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,80;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "76,69"
+      }
+    ],
+    "result": "PASS/626",
+    "total": 626,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140071",
+    "regNo": "7013-MC-2025",
+    "name": "INSHA AYAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "64,64;71"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "69,66;82"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "72,67;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,68"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "76,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "73,69"
+      }
+    ],
+    "result": "PASS/626",
+    "total": 626,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140072",
+    "regNo": "7014-MC-2025",
+    "name": "IRAM ALI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "62,60;52"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,54;75"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,63;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,56"
+      }
+    ],
+    "result": "PASS/558",
+    "total": 558,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140073",
+    "regNo": "7169-MC-2025",
+    "name": "JAFFAR AHMAD GOJAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,49;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,61;61"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,58;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "55,53"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "54,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,57"
+      }
+    ],
+    "result": "PASS/505",
+    "total": 505,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140074",
+    "regNo": "7015-MC-2025",
+    "name": "KAIFAYAT QAYOOM MIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "56,65;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "48,57;71"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,57;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "58,48"
+      }
+    ],
+    "result": "PASS/542",
+    "total": 542,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140075",
+    "regNo": "7160-MC-2025",
+    "name": "KANCHAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "39,56;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,65;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,50;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,53"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,54"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140076",
+    "regNo": "7161-MC-2025",
+    "name": "KAVITA BHATI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "53,67;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,58;55"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "49,50;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,51"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "51,53"
+      }
+    ],
+    "result": "PASS/500",
+    "total": 500,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140078",
+    "regNo": "7153-MC-2025",
+    "name": "KHADIM HUSSAIN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "57,61;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,61;57"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "49,53;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,59"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,57"
+      }
+    ],
+    "result": "PASS/519",
+    "total": 519,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140079",
+    "regNo": "7154-MC-2025",
+    "name": "KOMAL DEVI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,57;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,63;62"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,52;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,57"
+      }
+    ],
+    "result": "PASS/540",
+    "total": 540,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140080",
+    "regNo": "7016-MC-2025",
+    "name": "LAKSHYA MAANJU",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "54,54;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,65;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "55,60;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "66,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,54"
+      }
+    ],
+    "result": "PASS/549",
+    "total": 549,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140081",
+    "regNo": "7017-MC-2025",
+    "name": "LAVANYA BHAGAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,68;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,59;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,67;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,70"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,68"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,63"
+      }
+    ],
+    "result": "PASS/565",
+    "total": 565,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140082",
+    "regNo": "7018-MC-2025",
+    "name": "LAXMANRAM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,50;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "43,52;51"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "44,48;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,53"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "59,43"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140083",
+    "regNo": "7019-MC-2025",
+    "name": "LONE AATIF GULZAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,55;52"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,47;58"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "47,54;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "55,50"
+      }
+    ],
+    "result": "PASS/481",
+    "total": 481,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140084",
+    "regNo": "7020-MC-2025",
+    "name": "M REYAN BAZAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "63,59;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,69;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,55;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "52,49"
+      }
+    ],
+    "result": "PASS/547",
+    "total": 547,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140085",
+    "regNo": "7021-MC-2025",
+    "name": "MAHMOONA ALTAF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,60;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "54,57;78"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,50;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "59,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "59,56"
+      }
+    ],
+    "result": "PASS/533",
+    "total": 533,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140087",
+    "regNo": "7022-MC-2025",
+    "name": "MAJID ANWAR DAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,65;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "50,50;66"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,51;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "74,68"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "74,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,54"
+      }
+    ],
+    "result": "PASS/524",
+    "total": 524,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140088",
+    "regNo": "7023-MC-2025",
+    "name": "MALVI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,54;71"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,63;62"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,58;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "75,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,59"
+      }
+    ],
+    "result": "PASS/554",
+    "total": 554,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140089",
+    "regNo": "7024-MC-2025",
+    "name": "MANSI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,46;64"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,57;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,51;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "59,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,58"
+      }
+    ],
+    "result": "PASS/521",
+    "total": 521,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140090",
+    "regNo": "7025-MC-2025",
+    "name": "MANZOOR SUBHAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,63;57"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "68,54;75"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,76;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "67,56"
+      }
+    ],
+    "result": "PASS/569",
+    "total": 569,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140091",
+    "regNo": "7026-MC-2025",
+    "name": "MARIA NAFQI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "71,64;52"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,55;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,57;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "72,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,50"
+      }
+    ],
+    "result": "PASS/534",
+    "total": 534,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140092",
+    "regNo": "7027-MC-2025",
+    "name": "MAROOSA RESHI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "65,62;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,59;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,60;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,63"
+      }
+    ],
+    "result": "PASS/568",
+    "total": 568,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140093",
+    "regNo": "7028-MC-2025",
+    "name": "MARYAM SUHAIL KHANDAY",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "58,59;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,64;71"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,63;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "72,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "84,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "73,65"
+      }
+    ],
+    "result": "PASS/579",
+    "total": 579,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140094",
+    "regNo": "7029-MC-2025",
+    "name": "MASIRAH MAJID WANI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "56,70;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,65;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "69,60;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "72,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "75,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,59"
+      }
+    ],
+    "result": "PASS/580",
+    "total": 580,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140095",
+    "regNo": "7030-MC-2025",
+    "name": "MEHAK MUSHTAQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "59,63;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,58;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,67;73"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,58"
+      }
+    ],
+    "result": "PASS/587",
+    "total": 587,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140096",
+    "regNo": "7031-MC-2025",
+    "name": "MEHMOOD UL HUSSAIN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,61;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "66,59;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "46,70;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "55,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,53"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "58,55"
+      }
+    ],
+    "result": "PASS/545",
+    "total": 545,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140097",
+    "regNo": "7032-MC-2025",
+    "name": "MIDHAT MOHI UD DIN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "62,70;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,55;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,72;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "71,68"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "78,68"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,61"
+      }
+    ],
+    "result": "PASS/589",
+    "total": 589,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140098",
+    "regNo": "7033-MC-2025",
+    "name": "MIR ARUWAH GULZAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "51,65;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,53;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,69;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,68"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "83,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,62"
+      }
+    ],
+    "result": "PASS/562",
+    "total": 562,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140099",
+    "regNo": "7034-MC-2025",
+    "name": "MIR FAHAD",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "57,61;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "55,50;61"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,53;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,53"
+      }
+    ],
+    "result": "PASS/530",
+    "total": 530,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140100",
+    "regNo": "7035-MC-2025",
+    "name": "MIR NUHA KHURSHEED",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,62;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,66;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,70;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,61"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "71,56"
+      }
+    ],
+    "result": "PASS/579",
+    "total": 579,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140101",
+    "regNo": "7036-MC-2025",
+    "name": "MIR UMAR BASHIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "53,45;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "40,45;76"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "55,51;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,46"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,51"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "50,54"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140102",
+    "regNo": "7037-MC-2025",
+    "name": "MISBA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,65;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,51;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,55;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "75,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "71,62"
+      }
+    ],
+    "result": "PASS/564",
+    "total": 564,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140103",
+    "regNo": "7038-MC-2025",
+    "name": "MOBIN YOUSUF BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,59;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "66,61;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,60;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "65,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,61"
+      }
+    ],
+    "result": "PASS/569",
+    "total": 569,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140104",
+    "regNo": "7039-MC-2025",
+    "name": "MOHAMMAD ISHAQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "66,62;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,55;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,75;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "78,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "70,65"
+      }
+    ],
+    "result": "PASS/566",
+    "total": 566,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140105",
+    "regNo": "7040-MC-2025",
+    "name": "MOHAMMAD MEHDI MIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "46,41;51"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "52,50;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,42;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,52"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "60,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,44"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140106",
+    "regNo": "7041-MC-2025",
+    "name": "MOHAMMAD USMAN MIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "58,60;68"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,56;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,73;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "77,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "57,62"
+      }
+    ],
+    "result": "PASS/570",
+    "total": 570,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140107",
+    "regNo": "7042-MC-2025",
+    "name": "MOHAMMAD YASEEN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,50;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,64;75"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,57;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "72,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,57"
+      }
+    ],
+    "result": "PASS/558",
+    "total": 558,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140108",
+    "regNo": "7043-MC-2025",
+    "name": "MOHAMMAD YASEEN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "54,59;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "71,63;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,68;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,70"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,54"
+      }
+    ],
+    "result": "PASS/586",
+    "total": 586,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140109",
+    "regNo": "7044-MC-2025",
+    "name": "MOHD ASIF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "57,64;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,53;56"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "53,50;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,61"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,55"
+      }
+    ],
+    "result": "PASS/514",
+    "total": 514,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140110",
+    "regNo": "7045-MC-2025",
+    "name": "MOHD INZAMAM KHAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,52;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "67,56;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,55;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "72,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "70,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "53,54"
+      }
+    ],
+    "result": "PASS/556",
+    "total": 556,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140111",
+    "regNo": "7170-MC-2025",
+    "name": "MOSIN KHAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "54,48;41"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,57;50"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,62;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,51"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,55"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,59"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140112",
+    "regNo": "7046-MC-2025",
+    "name": "MOUAZZIN UL ISLAM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "40,52;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,63;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "72,53;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "66,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,52"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140113",
+    "regNo": "7047-MC-2025",
+    "name": "MUBASHIR UL ISLAM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,55;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,65;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,54;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,56"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,56"
+      }
+    ],
+    "result": "PASS/534",
+    "total": 534,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140114",
+    "regNo": "7048-MC-2025",
+    "name": "MUHAMMAD SALIQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "65,70;70"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,71;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,68;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "81,70"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "77,70"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,73"
+      }
+    ],
+    "result": "PASS/612",
+    "total": 612,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140115",
+    "regNo": "7049-MC-2025",
+    "name": "MUHEET MANZOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "64,58;65"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "66,70;86"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,64;73"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "73,71"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "72,70"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,68"
+      }
+    ],
+    "result": "PASS/609",
+    "total": 609,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140116",
+    "regNo": "7050-MC-2025",
+    "name": "MUNSHAFA HAMID",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,62;69"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,55;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,52;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,56"
+      }
+    ],
+    "result": "PASS/553",
+    "total": 553,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140117",
+    "regNo": "7051-MC-2025",
+    "name": "MUSADIQ FAROOQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "62,47;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "55,61;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,50;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,52"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "51,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "52,55"
+      }
+    ],
+    "result": "PASS/528",
+    "total": 528,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140118",
+    "regNo": "7052-MC-2025",
+    "name": "MUSHARRAF JAHANGIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "57,55;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "47,64;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,75;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "50,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,53"
+      }
+    ],
+    "result": "PASS/542",
+    "total": 542,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140119",
+    "regNo": "7053-MC-2025",
+    "name": "NAIFAH TAHOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "45,60;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "52,53;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,53;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,53"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,56"
+      }
+    ],
+    "result": "PASS/526",
+    "total": 526,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140120",
+    "regNo": "7162-MC-2025",
+    "name": "NAJMA TABASSAM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "59,66;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,64;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,59;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "72,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,61"
+      }
+    ],
+    "result": "PASS/568",
+    "total": 568,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140121",
+    "regNo": "7054-MC-2025",
+    "name": "NAUMAN ANWAR MASOODI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "49,57;51"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,63;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,65;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,46"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "51,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,56"
+      }
+    ],
+    "result": "PASS/548",
+    "total": 548,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140122",
+    "regNo": "7055-MC-2025",
+    "name": "NEERUPAM SINGH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "35,56;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "41,54;71"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "54,67;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "59,53"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,43"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140123",
+    "regNo": "7056-MC-2025",
+    "name": "NELOFAR JAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "67,70;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "71,70;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "72,86;76"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "60,71"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "69,68"
+      }
+    ],
+    "result": "PASS/651",
+    "total": 651,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140124",
+    "regNo": "7057-MC-2025",
+    "name": "NIDHA BASHIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,57;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,62;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,53;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "66,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,60"
+      }
+    ],
+    "result": "PASS/535",
+    "total": 535,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140125",
+    "regNo": "7058-MC-2025",
+    "name": "NIHARIKA RATTAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,66;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "67,68;57"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,58;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "66,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,56"
+      }
+    ],
+    "result": "PASS/557",
+    "total": 557,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140126",
+    "regNo": "7171-MC-2025",
+    "name": "NIKHIL SHARMA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "30,16;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "34,53;56"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "45,59;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,47"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,43"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140127",
+    "regNo": "7163-MC-2025",
+    "name": "NIKITA YADAV",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "67,54;64"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,64;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "54,56;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "60,55"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "56,50"
+      }
+    ],
+    "result": "PASS/549",
+    "total": 549,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140128",
+    "regNo": "7059-MC-2025",
+    "name": "NOMAAN MUKHTAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,47;57"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "50,66;66"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,74;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,53"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "56,56"
+      }
+    ],
+    "result": "PASS/531",
+    "total": 531,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140129",
+    "regNo": "7060-MC-2025",
+    "name": "NOUSHEEN FAYAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,53;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "68,68;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,52;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,61"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,61"
+      }
+    ],
+    "result": "PASS/544",
+    "total": 544,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140130",
+    "regNo": "7061-MC-2025",
+    "name": "NUMAAN FAROOQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "57,52;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "69,66;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,68;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "59,57"
+      }
+    ],
+    "result": "PASS/564",
+    "total": 564,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140131",
+    "regNo": "7172-MC-2025",
+    "name": "OMER ABDULLAH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "58,70;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "77,58;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,69;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,64"
+      }
+    ],
+    "result": "PASS/603",
+    "total": 603,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140132",
+    "regNo": "7062-MC-2025",
+    "name": "OWAIS SHAFI LONE",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "38,55;52"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "47,64;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,67;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "56,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,50"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140133",
+    "regNo": "7063-MC-2025",
+    "name": "PADMA CHUSKIT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,60;70"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "79,56;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,61;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "74,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "70,68"
+      }
+    ],
+    "result": "PASS/591",
+    "total": 591,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140134",
+    "regNo": "7064-MC-2025",
+    "name": "PALAK CHOUDHARY",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "42,63;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "69,63;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,59;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,54"
+      }
+    ],
+    "result": "PASS/550",
+    "total": 550,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140135",
+    "regNo": "7065-MC-2025",
+    "name": "PIR AMIR MANZOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,36;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "38,54;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "44,61;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "50,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,42"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,54"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140136",
+    "regNo": "7164-MC-2025",
+    "name": "POOJA MEGHWAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "46,51;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "71,67;53"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,64;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,53"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "57,54"
+      }
+    ],
+    "result": "PASS/539",
+    "total": 539,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140137",
+    "regNo": "7066-MC-2025",
+    "name": "POOJA MEGHWAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "45,44;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,63;53"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "55,50;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,44"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "55,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "57,60"
+      }
+    ],
+    "result": "PASS/491",
+    "total": 491,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140138",
+    "regNo": "7067-MC-2025",
+    "name": "PRIYANKA KUMARI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "45,67;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,62;57"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,45;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "55,61"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "48,53"
+      }
+    ],
+    "result": "PASS/534",
+    "total": 534,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140139",
+    "regNo": "7068-MC-2025",
+    "name": "QAMAR UN NISA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,64;69"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "77,67;65"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "55,75;75"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "74,70"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "76,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "73,65"
+      }
+    ],
+    "result": "PASS/608",
+    "total": 608,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140140",
+    "regNo": "7069-MC-2025",
+    "name": "RAFIYA BEGUM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "69,64;65"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "77,66;59"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,76;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,62"
+      }
+    ],
+    "result": "PASS/608",
+    "total": 608,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140141",
+    "regNo": "7070-MC-2025",
+    "name": "RAHILA CHOUDHARY",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "51,64;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "66,50;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,70;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,61"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,55"
+      }
+    ],
+    "result": "PASS/556",
+    "total": 556,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140142",
+    "regNo": "7165-MC-2025",
+    "name": "RAMJAN ALI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "52,41;35"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "44,44;50"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "47,29;43"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "50,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "50,50"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140143",
+    "regNo": "7071-MC-2025",
+    "name": "RAQIB RASHID HAJAM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "63,70;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "70,57;71"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,77;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,66"
+      }
+    ],
+    "result": "PASS/599",
+    "total": 599,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140144",
+    "regNo": "7155-MC-2025",
+    "name": "RIGZEN NAMGAIL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "30,52;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "47,53;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "47,45;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,48"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "59,53"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,44"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140145",
+    "regNo": "7173-MC-2025",
+    "name": "RINKU BOKOLIYA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,55;43"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,56;50"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,58;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,48"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "59,50"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140146",
+    "regNo": "7174-MC-2025",
+    "name": "RISHIKESH JHA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,57;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "49,54;71"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,32;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,55"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,53"
+      }
+    ],
+    "result": "PASS/488",
+    "total": 488,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140147",
+    "regNo": "7072-MC-2025",
+    "name": "RIZWAN AHMAD BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,66;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,71;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,68;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,58"
+      }
+    ],
+    "result": "PASS/570",
+    "total": 570,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140148",
+    "regNo": "7073-MC-2025",
+    "name": "RIZWANA SHAHNAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,58;64"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,67;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "53,59;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,56"
+      }
+    ],
+    "result": "PASS/547",
+    "total": 547,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140149",
+    "regNo": "7074-MC-2025",
+    "name": "SAADAN ASHRAF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "64,70;68"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,67;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "69,58;76"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "75,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,68"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,67"
+      }
+    ],
+    "result": "PASS/604",
+    "total": 604,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140150",
+    "regNo": "7075-MC-2025",
+    "name": "SAHIL BHARDWAJ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "49,54;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,47;71"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,61;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,54"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,49"
+      }
+    ],
+    "result": "PASS/541",
+    "total": 541,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140151",
+    "regNo": "7076-MC-2025",
+    "name": "SAIF UL ISLAM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,54;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "45,57;78"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "52,53;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "54,50"
+      }
+    ],
+    "result": "PASS/502",
+    "total": 502,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140152",
+    "regNo": "7077-MC-2025",
+    "name": "SAIKA JAHANGEER",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "65,57;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,51;78"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,50;72"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,59"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "73,68"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,61"
+      }
+    ],
+    "result": "PASS/563",
+    "total": 563,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140155",
+    "regNo": "7079-MC-2025",
+    "name": "SALMA SHOWKAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,53;60"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,47;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,71;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "67,61"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,49"
+      }
+    ],
+    "result": "PASS/546",
+    "total": 546,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140156",
+    "regNo": "7080-MC-2025",
+    "name": "SANNA ZAHOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "63,59;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,67;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "62,54;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "71,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,56"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,53"
+      }
+    ],
+    "result": "PASS/571",
+    "total": 571,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140157",
+    "regNo": "7081-MC-2025",
+    "name": "SAQIB TARIQ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,58;68"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "44,63;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,67;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,56"
+      }
+    ],
+    "result": "PASS/558",
+    "total": 558,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140158",
+    "regNo": "7082-MC-2025",
+    "name": "SARSHAD AHMAD KHAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "41,46;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "50,55;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,52;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,52"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "51,51"
+      }
+    ],
+    "result": "R MBBS19101",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140159",
+    "regNo": "7083-MC-2025",
+    "name": "SEHREENA SHOWKAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,62;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "54,50;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,70;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "65,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "59,60"
+      }
+    ],
+    "result": "PASS/551",
+    "total": 551,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140160",
+    "regNo": "7084-MC-2025",
+    "name": "SHAHID BASHIR BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "54,50;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "47,57;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,58;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "54,54"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "60,52"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,46"
+      }
+    ],
+    "result": "PASS/507",
+    "total": 507,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140161",
+    "regNo": "7157-MC-2025",
+    "name": "SHAHID BASHIR DAR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,66;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,53;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,56;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "72,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,54"
+      }
+    ],
+    "result": "PASS/534",
+    "total": 534,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140162",
+    "regNo": "7175-MC-2025",
+    "name": "SHAHID CHOUDHARY",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "41,55;59"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,54;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,60;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,55"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,51"
+      }
+    ],
+    "result": "PASS/509",
+    "total": 509,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140163",
+    "regNo": "7085-MC-2025",
+    "name": "SHAHID UL HAQ KASANA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,57;57"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,61;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,72;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,59"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "65,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,57"
+      }
+    ],
+    "result": "PASS/546",
+    "total": 546,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140164",
+    "regNo": "7086-MC-2025",
+    "name": "SHAISTA MAJEED",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "63,61;52"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "72,56;72"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "41,38;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,54"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,51"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,48"
+      }
+    ],
+    "result": "R MBBS19103",
+    "total": null,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140165",
+    "regNo": "7158-MC-2025",
+    "name": "SHEIKH DANISHTA FAYAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "64,56;57"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,54;75"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,39;69"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,64"
+      }
+    ],
+    "result": "PASS/535",
+    "total": 535,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140166",
+    "regNo": "7087-MC-2025",
+    "name": "SHEIKH MUJEEB AHMAD",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "52,58;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,59;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,73;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,60"
+      }
+    ],
+    "result": "PASS/567",
+    "total": 567,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140167",
+    "regNo": "7088-MC-2025",
+    "name": "SHIEKH MISBA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "43,60;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,57;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,65;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,53"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "65,68"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "51,54"
+      }
+    ],
+    "result": "PASS/528",
+    "total": 528,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140168",
+    "regNo": "7089-MC-2025",
+    "name": "SHIFA HASSAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "45,59;68"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,57;81"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,67;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,62"
+      }
+    ],
+    "result": "PASS/558",
+    "total": 558,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140169",
+    "regNo": "7090-MC-2025",
+    "name": "SIBHER SHAKEEL BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "58,69;64"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,64;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,57;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,69"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,68"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,62"
+      }
+    ],
+    "result": "PASS/572",
+    "total": 572,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140170",
+    "regNo": "7091-MC-2025",
+    "name": "SIMAR PREET KOUR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "46,57;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,52;66"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,74;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,62"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,56"
+      }
+    ],
+    "result": "PASS/532",
+    "total": 532,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140171",
+    "regNo": "7092-MC-2025",
+    "name": "SUHA AMIN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "52,66;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "61,55;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "66,50;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "73,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "70,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "71,64"
+      }
+    ],
+    "result": "PASS/551",
+    "total": 551,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140172",
+    "regNo": "7093-MC-2025",
+    "name": "SUMAIYA SHAFI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "62,63;65"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "53,63;69"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,62;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,58"
+      }
+    ],
+    "result": "PASS/559",
+    "total": 559,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140173",
+    "regNo": "7094-MC-2025",
+    "name": "SURAYA ALTAF HAJAM",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,54;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,56;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,61;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,59"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,61"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,48"
+      }
+    ],
+    "result": "PASS/540",
+    "total": 540,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140174",
+    "regNo": "7095-MC-2025",
+    "name": "SYED KASHIF MEHRAJ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,61;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,65;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "51,70;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "65,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,41"
+      }
+    ],
+    "result": "PASS/554",
+    "total": 554,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140175",
+    "regNo": "7096-MC-2025",
+    "name": "SYED MURAD ALI SHAH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "50,51;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "51,65;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "56,52;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,45"
+      }
+    ],
+    "result": "PASS/505",
+    "total": 505,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140176",
+    "regNo": "7097-MC-2025",
+    "name": "SYED NASHEEDA ZAHOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "63,62;65"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,60;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "65,53;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,53"
+      }
+    ],
+    "result": "PASS/553",
+    "total": 553,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140177",
+    "regNo": "7098-MC-2025",
+    "name": "TABINA YOUNIS",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "51,62;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,61;61"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,77;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,53"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,69"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,56"
+      }
+    ],
+    "result": "PASS/548",
+    "total": 548,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140178",
+    "regNo": "7099-MC-2025",
+    "name": "TABISH IQBAL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "43,65;61"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,66;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,52;62"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "63,45"
+      }
+    ],
+    "result": "PASS/545",
+    "total": 545,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140179",
+    "regNo": "7100-MC-2025",
+    "name": "TABISH ZAHOOR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "44,63;73"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "59,56;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,75;64"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "67,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "48,62"
+      }
+    ],
+    "result": "PASS/565",
+    "total": 565,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140180",
+    "regNo": "7101-MC-2025",
+    "name": "TABIYA REYAZ",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "73,63;66"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "73,65;71"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "72,58;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "80,72"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,73"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,67"
+      }
+    ],
+    "result": "PASS/608",
+    "total": 608,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140181",
+    "regNo": "7102-MC-2025",
+    "name": "TAHIRA BANO",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "49,67;58"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,53;70"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "68,59;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,55"
+      }
+    ],
+    "result": "PASS/549",
+    "total": 549,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140182",
+    "regNo": "7103-MC-2025",
+    "name": "TANISH GORKA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "67,52;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,55;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "71,68;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,56"
+      }
+    ],
+    "result": "PASS/560",
+    "total": 560,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140183",
+    "regNo": "7104-MC-2025",
+    "name": "TARUN SHARMA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,48;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "56,59;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "61,56;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "55,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "56,53"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,40"
+      }
+    ],
+    "result": "PASS/519",
+    "total": 519,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140184",
+    "regNo": "7105-MC-2025",
+    "name": "TAWHEED BASHIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,56;64"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,69;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "63,56;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "58,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,66"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,43"
+      }
+    ],
+    "result": "PASS/557",
+    "total": 557,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140185",
+    "regNo": "7106-MC-2025",
+    "name": "TAYYIBAH",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,62;64"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "72,67;78"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "71,61;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,65"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "76,71"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "72,64"
+      }
+    ],
+    "result": "PASS/595",
+    "total": 595,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140186",
+    "regNo": "7107-MC-2025",
+    "name": "TOOBA SAEED",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "70,59;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "72,55;76"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "70,86;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "71,67"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "66,71"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "64,66"
+      }
+    ],
+    "result": "PASS/625",
+    "total": 625,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140187",
+    "regNo": "7108-MC-2025",
+    "name": "TOYIBA HIMAYUN BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "62,55;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "67,66;74"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "64,56;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "74,64"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "71,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "74,59"
+      }
+    ],
+    "result": "PASS/561",
+    "total": 561,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140188",
+    "regNo": "7109-MC-2025",
+    "name": "UMEED ASHRAF",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "46,58;65"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "58,55;57"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,66;61"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,59"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "59,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "62,50"
+      }
+    ],
+    "result": "PASS/525",
+    "total": 525,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140189",
+    "regNo": "7110-MC-2025",
+    "name": "URMILLA NAZIR",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "47,60;56"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "70,67;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "57,68;68"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "69,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,69"
+      }
+    ],
+    "result": "PASS/561",
+    "total": 561,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140190",
+    "regNo": "7111-MC-2025",
+    "name": "USAID ZAINDARI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,53;53"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "46,53;77"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,50;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "65,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "69,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "58,54"
+      }
+    ],
+    "result": "PASS/511",
+    "total": 511,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140191",
+    "regNo": "7112-MC-2025",
+    "name": "UZMA YOUNIS MALIK",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "72,59;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,50;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,71;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "59,63"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,60"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "66,49"
+      }
+    ],
+    "result": "PASS/549",
+    "total": 549,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140192",
+    "regNo": "7113-MC-2025",
+    "name": "WAJID AHMAD WANI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "45,60;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,54;66"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "70,58;65"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,56"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "58,50"
+      }
+    ],
+    "result": "PASS/537",
+    "total": 537,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140193",
+    "regNo": "7114-MC-2025",
+    "name": "WALI ASKARI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "61,63;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "62,55;64"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "71,66;66"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "63,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,57"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,53"
+      }
+    ],
+    "result": "PASS/563",
+    "total": 563,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140194",
+    "regNo": "7115-MC-2025",
+    "name": "WAQAR HUSSAIN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "66,62;54"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,53;73"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,79;71"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "78,57"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "61,58"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "69,53"
+      }
+    ],
+    "result": "PASS/579",
+    "total": 579,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140195",
+    "regNo": "7116-MC-2025",
+    "name": "WASEEM AHMAD RAINA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "57,57;63"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "63,52;75"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "60,64;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "70,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "70,65"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,52"
+      }
+    ],
+    "result": "PASS/551",
+    "total": 551,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140196",
+    "regNo": "7117-MC-2025",
+    "name": "YASIR AHMAD GOJREE",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "74,59;50"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "57,68;82"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "68,66;70"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "72,66"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "70,64"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "69,61"
+      }
+    ],
+    "result": "PASS/594",
+    "total": 594,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140197",
+    "regNo": "7118-MC-2025",
+    "name": "YASIR NABI BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "66,60;52"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,65;63"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "69,75;67"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "68,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "62,67"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "68,59"
+      }
+    ],
+    "result": "PASS/582",
+    "total": 582,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140198",
+    "regNo": "7119-MC-2025",
+    "name": "YOUNUS KHAN",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "55,54;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "46,59;50"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "55,50;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "53,50"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "58,50"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "60,40"
+      }
+    ],
+    "result": "PASS/484",
+    "total": 484,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140199",
+    "regNo": "7166-MC-2025",
+    "name": "ZAKIA FATMA",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "73,64;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "60,66;68"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,55;60"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "62,58"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "57,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "61,57"
+      }
+    ],
+    "result": "PASS/560",
+    "total": 560,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210140200",
+    "regNo": "7120-MC-2025",
+    "name": "PARUL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "48,61;55"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "65,51;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,58;63"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "60,61"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "64,59"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "52,57"
+      }
+    ],
+    "result": "PASS/526",
+    "total": 526,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210174101",
+    "regNo": "5138-MC-2022",
+    "name": "REFAT RASOOL",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "71,72;69"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "64,69;58"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "67,67;87"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "61,60"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "68,68"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "88,70"
+      }
+    ],
+    "result": "PASS/624",
+    "total": 624,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210174134",
+    "regNo": "6115-MC-2024",
+    "name": "TASADUQ FAYAZ BHAT",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "52,67;62"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "68,57;60"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "58,63;82"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,51"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "59,54"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "65,58"
+      }
+    ],
+    "result": "PASS/569",
+    "total": 569,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210175030",
+    "regNo": "5069-MC-2021",
+    "name": "DEESHA NABI",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "56,54;70"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "55,65;66"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,56;75"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "64,55"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "63,62"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "77,60"
+      }
+    ],
+    "result": "PASS/556",
+    "total": 556,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  },
+  {
+    "rollNo": "25210175143",
+    "regNo": "4583-MC-2020",
+    "name": "UZMA AYOUB",
+    "subjects": [
+      {
+        "code": "MBBS19101",
+        "marks": "60,66;67"
+      },
+      {
+        "code": "MBBS19102",
+        "marks": "74,70;67"
+      },
+      {
+        "code": "MBBS19103",
+        "marks": "59,64;74"
+      },
+      {
+        "code": "MBBSS19101B",
+        "marks": "57,55"
+      },
+      {
+        "code": "MBBS19102B",
+        "marks": "73,63"
+      },
+      {
+        "code": "MBBS19103B",
+        "marks": "84,66"
+      }
+    ],
+    "result": "PASS/601",
+    "total": 601,
+    "college": "Govt Degree Medical College Srinagar",
+    "session": "August 2026"
+  }
+]

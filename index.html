@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>University of Kashmir — Examination Results</title><link rel="stylesheet" href="style.css"></head>
+<body><header class="university">University of Kashmir</header><div class="session-banner"><span>MBBS 1st year batch 2025 and backlog batches session August 2026</span></div>
+<main class="main"><section class="search-grid">
+<div class="cell heading">Select selection criteria</div><div class="cell heading college-heading"></div><div class="cell heading">Filter result by marks</div>
+<div class="cell criteria"><label><input type="radio" name="criterion" value="rollNo" checked>Roll<br>No</label><label><input type="radio" name="criterion" value="name">Name</label><label><input type="radio" name="criterion" value="regNo">Registration<br>No</label></div>
+<div class="cell college"><select id="college"><option value="all">Select All Colleges</option><option value="Govt Degree Medical College Srinagar">GOVT DEGREE MEDICAL COLLEGE SRINAGAR</option></select><button id="viewAll">View</button><a class="button" href="original-results.pdf" download="University-of-Kashmir-Original-Results.pdf">Print</a></div>
+<div class="cell marks-filter"><label for="operator">Marks</label><select id="operator"><option value=">=">≥</option><option value=">">&gt;</option><option value="<">&lt;</option></select><input id="markValue" type="number" min="0" aria-label="Marks"><button id="filterMarks">View</button></div>
+<div class="cell roll-search"><label id="searchLabel" for="searchValue">Roll No:</label><input id="searchValue" autocomplete="off"><button id="searchButton">Search</button></div><div class="cell empty"></div><div class="cell empty"></div></section>
+<div class="divider"></div><section id="message" class="message" aria-live="polite"></section><section id="results" class="results"></section></main>
+<footer>©2010 Directorate of Information Technology &amp; Support System, University of Kashmir<br><strong>Managed &amp; Updated by Examination Wing</strong></footer><script src="app.js"></script></body></html>
